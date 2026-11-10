@@ -1,0 +1,4 @@
+# Make the saved searches and configs global so they run across all indexes.
+[]
+access = read : [ * ], write : [ admin, power ]
+export = system
